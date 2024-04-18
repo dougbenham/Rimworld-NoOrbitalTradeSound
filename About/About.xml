@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>N.O.T.S. (No Orbital Trade Sound)</name>
+	<author>Doug</author>
+	<packageId>Doug.NoOrbitalTradeSound</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+		<li>1.5</li>
+	</supportedVersions>
+	<description>
+		Continued from https://steamcommunity.com/sharedfiles/filedetails/?id=1153934878
+		
+		Mutes the orbital trader bleep blaap bleep.
+
+		Enjoy the silence!
+	</description>
+</ModMetaData>

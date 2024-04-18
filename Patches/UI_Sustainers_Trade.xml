@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/SoundDef[defName="RadioComms_Ambience"]/subSounds/li/volumeRange</xpath>
+		<value>
+			<volumeRange>0~0</volumeRange>
+		</value>
+	</Operation>
+</Patch>
